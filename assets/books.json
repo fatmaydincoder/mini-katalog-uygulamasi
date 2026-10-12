@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Simyacı",
+    "author": "Paulo Coelho",
+    "price": "₺90",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71aFt4+OTOL.jpg"
+  },
+  {
+    "title": "Harry Potter ve Felsefe Taşı",
+    "author": "J.K. Rowling",
+    "price": "₺120",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81YOuOGFCJL.jpg"
+  },
+  {
+    "title": "Kürk Mantolu Madonna",
+    "author": "Sabahattin Ali",
+    "price": "₺75",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1362477552i/220826.jpg"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "price": "₺100",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71kxa1-0mfL.jpg"
+  }
+]
