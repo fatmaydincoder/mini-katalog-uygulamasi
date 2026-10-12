@@ -19,3 +19,9 @@ Amaç: Flutter ile temel seviyede mobil uygulama geliştirme sürecini öğrenme
 1. Projeyi klonla:
    ```bash
    git clone https://github.com/fatmaydincoder/mini-katalog-uygulamasi.git
+
+## 📸 Ekran Görüntüleri
+
+![Mini Katalog Sayfası Ana Sayfa](screenshots/ana_sayfa.png)
+![Sepet Aşaması](screenshots/sepet.png)
+![Sepete Eklendi Aşaması](screenshots/sepete_eklendi.png)
