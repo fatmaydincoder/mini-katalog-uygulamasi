@@ -22,6 +22,6 @@ Amaç: Flutter ile temel seviyede mobil uygulama geliştirme sürecini öğrenme
 
 ## 📸 Ekran Görüntüleri
 
-![Mini Katalog Sayfası Ana Sayfa](screenshots/ana_sayfa.png)
-![Sepet Aşaması](screenshots/sepet.png)
-![Sepete Eklendi Aşaması](screenshots/sepete_eklendi.png)
+![Mini Katalog Sayfası Ana Sayfa](screenshot/ana_sayfa.png)
+![Sepet Aşaması](screenshot/sepet.png)
+![Sepete Eklendi Aşaması](screenshot/sepete_eklendi.png)
